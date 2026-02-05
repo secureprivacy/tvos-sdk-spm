@@ -15,8 +15,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "SPTVConsent",
-            url: "https://cdn.secureprivacy.ai/tvos/SPTVConsent.xcframework-v0.1.4-beta.zip",
-            checksum: "3d0b4d3a79804aecaa1872089fbe77d66535b3513b9a0b062dbd4257a38813df"
+            url: "https://cdn.secureprivacy.ai/tvos/SPTVConsent.xcframework-v0.1.5-beta.zip",
+            checksum: "2897e4d9f63dab5b4dbadb4847ec7c9925ba9e539860a6ae19e6a7b0d23a7a09"
         )
     ]
 )
